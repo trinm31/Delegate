@@ -1,0 +1,15 @@
+/Users/nguyenminhtri/RiderProjects/Delegate/Delegate/bin/Debug/net5.0/Delegate.deps.json
+/Users/nguyenminhtri/RiderProjects/Delegate/Delegate/bin/Debug/net5.0/Delegate.runtimeconfig.json
+/Users/nguyenminhtri/RiderProjects/Delegate/Delegate/bin/Debug/net5.0/Delegate.runtimeconfig.dev.json
+/Users/nguyenminhtri/RiderProjects/Delegate/Delegate/bin/Debug/net5.0/Delegate.dll
+/Users/nguyenminhtri/RiderProjects/Delegate/Delegate/bin/Debug/net5.0/ref/Delegate.dll
+/Users/nguyenminhtri/RiderProjects/Delegate/Delegate/bin/Debug/net5.0/Delegate.pdb
+/Users/nguyenminhtri/RiderProjects/Delegate/Delegate/obj/Debug/net5.0/Delegate.csproj.AssemblyReference.cache
+/Users/nguyenminhtri/RiderProjects/Delegate/Delegate/obj/Debug/net5.0/Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhtri/RiderProjects/Delegate/Delegate/obj/Debug/net5.0/Delegate.AssemblyInfoInputs.cache
+/Users/nguyenminhtri/RiderProjects/Delegate/Delegate/obj/Debug/net5.0/Delegate.AssemblyInfo.cs
+/Users/nguyenminhtri/RiderProjects/Delegate/Delegate/obj/Debug/net5.0/Delegate.csproj.CoreCompileInputs.cache
+/Users/nguyenminhtri/RiderProjects/Delegate/Delegate/obj/Debug/net5.0/Delegate.dll
+/Users/nguyenminhtri/RiderProjects/Delegate/Delegate/obj/Debug/net5.0/ref/Delegate.dll
+/Users/nguyenminhtri/RiderProjects/Delegate/Delegate/obj/Debug/net5.0/Delegate.pdb
+/Users/nguyenminhtri/RiderProjects/Delegate/Delegate/obj/Debug/net5.0/Delegate.genruntimeconfig.cache
